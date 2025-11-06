@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+.env
+.vscode/
+.idea/
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +214,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+>>>>>>> 25bf8aa6da1bcc2fe61e043ac914e04c05fae969
