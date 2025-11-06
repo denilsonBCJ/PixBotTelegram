@@ -39,7 +39,7 @@ Ele gera links de pagamento únicos, verifica automaticamente o status da transa
 5. Execute o bot:
 
    ```bash
-   python main.py
+   python BotPix.py
    ```
 
 ### 📊 **Exemplo de uso**
@@ -49,5 +49,5 @@ Ideal para **vendas de acesso a grupos, canais premium ou produtos digitais**.
 
 ### 📜 **Licença**
 
-Este projeto é distribuído sob a licença MIT — sinta-se livre para modificar e adaptar.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
